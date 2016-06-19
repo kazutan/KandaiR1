@@ -10,7 +10,7 @@
 
 ### Markdown記法について
 
-[サンプルのmdファイル]()を(ちゃんと)作りました。htmlへのレンダリング結果は[こちら]()です。実際作業するならRStudioのメニューのHelpから"Markdown Quick Reference"を選択して、Helpビューに出てくるのを見るのが一番です。
+[サンプルのmdファイル](http://kazutan.github.io/md_sample.md)を(ちゃんと)作りました。htmlへのレンダリング結果は[こちら](http://kazutan.github.io/md_sample.html)です。実際作業するならRStudioのメニューのHelpから"Markdown Quick Reference"を選択して、Helpビューに出てくるのを見るのが一番です。
 
 ### 対応する出力形式について
 

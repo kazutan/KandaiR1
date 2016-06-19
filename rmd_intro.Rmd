@@ -85,7 +85,8 @@ library(DiagrammeR)
 - RStudioにはクイックリファレンスが
     - [Help] - [Markdown Quick Reference]
     - これみとけばOK
-- サンプルは[こちら](http://kazutan.github.io/KandaiR1/)
+- サンプルは[こちら](http://kazutan.github.io/KandaiR1/md_sample.md)(文字化けしたら、ブラウザの文字コードを変更してください)
+    - htmlへレンダリングした結果は[こちら](http://kazutan.github.io/KandaiR1/md_sample.html)
 
 ## 見出し(h1-h4)
 
